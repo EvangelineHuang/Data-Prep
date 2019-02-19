@@ -5,6 +5,7 @@ h1{
 body{
   font-family: "Times New Roman";
   font-size: 40px;
+  background-color: #bcddc8;
 }
 img{
   float: right;
@@ -13,7 +14,4 @@ img{
 #first{
   display:inline;
   float: left;
-}
-body{
-  background-color: #bcddc8;
 }
