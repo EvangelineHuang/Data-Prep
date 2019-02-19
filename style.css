@@ -8,3 +8,6 @@ body{
 img{
   float: right;
 }
+#first{
+  display:inline;
+}
