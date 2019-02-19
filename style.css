@@ -9,7 +9,7 @@ body{
 }
 img{
   float: right;
-  margin-left: 5px;
+  margin: 10px;
 }
 #first{
   display:inline;
