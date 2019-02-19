@@ -9,12 +9,12 @@ body{
 }
 img{
   float: right;
-  margin: 10px;
+  margin: 20px;
 }
 #first{
   display:inline;
   float: left;
 }
-p body{
+body{
   padding:20px;
 }
