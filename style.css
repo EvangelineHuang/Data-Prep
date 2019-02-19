@@ -10,4 +10,5 @@ img{
 }
 #first{
   display:inline;
+  float: left;
 }
